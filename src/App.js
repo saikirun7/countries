@@ -1,9 +1,8 @@
-import './App.css';
 import Countries from './Countries';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <Countries />
     </div>
   );
